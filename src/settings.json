@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Transform your ideas into reality with our cutting-edge innovation platform, designed to fuel your passion and streamline your creative process.",
+        "title": "Unlock Endless Creativity with prdo"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Transform your ideas into reality with our cutting-edge innovation platform, designed to fuel your passion and streamline your creative process.",
+        "title": "Unlock Endless Creativity with prdo"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Transform your ideas into reality with our cutting-edge innovation platform, designed to fuel your passion and streamline your creative process.",
+        "title": "Unlock Endless Creativity with prdo"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Transform your ideas into reality with our cutting-edge innovation platform, designed to fuel your passion and streamline your creative process.",
+        "title": "Unlock Endless Creativity with prdo"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Transform your ideas into reality with our cutting-edge innovation platform, designed to fuel your passion and streamline your creative process.",
+        "title": "Unlock Endless Creativity with prdo"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Transform your ideas into reality with our cutting-edge innovation platform, designed to fuel your passion and streamline your creative process.",
+        "title": "Unlock Endless Creativity with prdo"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Transform your ideas into reality with our cutting-edge innovation platform, designed to fuel your passion and streamline your creative process.",
+        "title": "Unlock Endless Creativity with prdo"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Transform your ideas into reality with our cutting-edge innovation platform, designed to fuel your passion and streamline your creative process.",
+        "title": "Unlock Endless Creativity with prdo"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unlock Endless Creativity with prdo",
+  "subtitle": "Transform your ideas into reality with our cutting-edge innovation platform, designed to fuel your passion and streamline your creative process."
+}
